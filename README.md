@@ -1,7 +1,7 @@
 # Adaptive In-Context-Labeler
 
 <center>
-    <img src="contents/main.png">
+        <img src="contents/main.png" width="300" height="300">
 </center>
 
 *Using In-Context Learning Capability, LMQL, and multi-armed bandit examplars for fast labeling pipeline*
